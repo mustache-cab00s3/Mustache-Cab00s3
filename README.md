@@ -14,7 +14,7 @@
   - HTB
     - Bug Bounty
     - Certified Penetration Tester
-    - Portswigger Academy
+  - Portswigger Academy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact:
